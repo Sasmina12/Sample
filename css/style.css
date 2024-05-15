@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Noto+Sans+TC:wght@100..900&display=swap');
+body{
+    background-image: url("/pics/WhatsApp\ Image\ 2024-04-29\ at\ 12.31.39\ \(1\).jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+}
+h1{background-color: yellowgreen; color: rgb(218, 216, 231); text-align: center;
+    font-family: "Jacquard 12", system-ui;
+    
+}
+p{
+background-color: black; color: green;
+font-family: "Jacquard 12", system-ui;
+}
+
+#sampleID{
+    background-color: black;
+    color: brown;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 20px solid blue;
+}
+
+.sampleclass{
+    background-color: blue;
+}
+
+.box01{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    position: sticky;
+}
+
+.box02{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
